@@ -1,0 +1,9 @@
+# Ignore dataset folders
+data/aiimages/
+data/fake_diffusion/
+data/fake_vae/
+data/fake_vq/
+data/real/real_images/
+
+# Ignore model files
+models/
